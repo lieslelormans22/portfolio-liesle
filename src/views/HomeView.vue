@@ -249,7 +249,7 @@ onMounted(() => {
 .about-placeholder {
   width: 600px;
   height: 300px;
-  background-image: url('@/assets/Purewhite.jpg');
+  background-image: url('@/assets/PureWhite.jpg');
   background-size: cover;
   background-position: center;
 }
